@@ -12,9 +12,15 @@ At OneStopNewsHub, we pride ourselves on delivering accurate, timely, and insigh
 
 Navigating through our website is a breeze, thanks to our user-friendly interface. Intuitive categories and a robust search function ensure that you can easily find the news stories that matter most to you. We understand that your time is valuable, so we strive to provide a seamless browsing experience that allows you to quickly access the information you seek.
 
+![image](https://github.com/mmuzammil196/OneStopNewsHub_ReactJS_WebApplication/assets/77389040/10e77601-b2c2-41d6-a13a-2e532c2d93be)
+
 In addition to written articles, we offer a diverse range of multimedia content to enhance your news consumption experience. From captivating videos to impactful photographs and interactive graphics, we bring the news to life, keeping you informed and engaged with the world around you.
 
+![image](https://github.com/mmuzammil196/OneStopNewsHub_ReactJS_WebApplication/assets/77389040/10ff0205-b5be-4fa6-a647-0b58c340c7c5)
+
 OneStopNewsHub is committed to delivering quality journalism that goes beyond headlines. We provide in-depth analysis, thought-provoking opinion pieces, and expert insights to give you a comprehensive understanding of the stories that shape our world. With our dedication to excellence in reporting, we aim to be your trusted source for news and information.
+
+![image](https://github.com/mmuzammil196/OneStopNewsHub_ReactJS_WebApplication/assets/77389040/f3f782d7-ac3e-41b8-aaac-e4d1d595f48a)
 
 We would like to express our gratitude for visiting OneStopNewsHub. We value your readership and trust, and we are excited to serve as your go-to source for news in the years ahead. Stay connected with us as we continue to evolve and bring you the latest news stories that matter.
 
